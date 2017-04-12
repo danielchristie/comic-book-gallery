@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+// ComicBook's controller
 namespace ComicBookGallery.Controllers {
     public class ComicBooksController : Controller {
         public ActionResult Detail() {
